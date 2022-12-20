@@ -3,9 +3,9 @@
 # capable of performing other multifarious tasks told
 # by the user to it. Combined with a few python libraries,
 # Zenith can perform multifarious tasks like playing songs
-# in Internet, playing videos in YOUTUBE, searching on
+# in Internet, playing videos in Youtube, searching on
 # Google, opening various Apps and even do calculations
-# using wolframalpha website.
+# using wolframalpha.
 
 import speech_recognition as sr
 import playsound
